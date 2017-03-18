@@ -23,4 +23,4 @@ Are you sick of that LED constantly flashing? Put a stop to that nonsense with t
 Retro game enthusiast? Like chiptune music? Try out the [Mario](https://github.com/mitchpehora/canCode-Arduino/tree/master/Mario) program! 
 
 ## Servo
-Power up a servo using the Arduino, code and wiring diagram available [here](https://github.com/mitchpehora/canCode-Arduino/tree/master/Mario)
+Power up a servo using the Arduino, code and wiring diagram available [here](https://github.com/mitchpehora/canCode-Arduino/tree/master/Servo)
