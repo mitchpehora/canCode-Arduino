@@ -11,9 +11,11 @@ of the LED!
 
 ## Using an external LED
 The easiest way to add more electronic components to an Arduino is by using a breadboard. Each column is one 'node' of a circuit,
-with the exception of the '+' and '-' power pins, which are connected in rows, as shown below.
+with the exception of the '+' and '-' power pins, which are connected in rows, as shown below. 
+*220 ohm* resistor
 
 ![breadboard](https://cdn.instructables.com/FTG/1AAH/F23XWM7G/FTG1AAHF23XWM7G.MEDIUM.gif)
+
 *Note that the polarity of the LED must be observed. The longer of the two LED legs is the positive. In the diagram,
 the positive terminal of the LED is bent slightly
 
