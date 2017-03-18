@@ -22,5 +22,6 @@ if (buttonState == HIGH) {
 
 # Connecting a Button
 For more information on using a breadboard, check out the 'Blink' program. Below is the breadboard schematic for a button.
+10 K ohm resistor needed
 ![buttonbb](https://www.arduino.cc/en/uploads/Tutorial/button.png)
 
