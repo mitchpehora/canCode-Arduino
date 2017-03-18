@@ -6,6 +6,9 @@ http://tinyurl.com/arduinoCanCode
 
 Download the Arduino IDE [here!](https://www.arduino.cc/en/main/software)
 
+Before you upload any code, make sure you select the Arduino is connected to by going to 'Tools'>'Ports' and
+click on the one your Arduino is connected to.
+
 ## Blink
 Click [here](https://github.com/mitchpehora/canCode-Arduino/tree/master/blink) for information on making an LED blink! Supports on-board LED as well as external one.
 
